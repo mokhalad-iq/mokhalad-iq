@@ -1,7 +1,5 @@
 <div align="center" width="50">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="60%"/> <br>
-
 <h1>Hi 👋 I'm Mokhalad Ahmad</h1>
 <h3>Frontend & Backend Web Developer | Future IT Specialist 🇩🇪</h3>
 
