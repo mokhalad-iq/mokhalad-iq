@@ -1,7 +1,7 @@
 <div align="center" width="50">
 
 <h1>Hi 👋 I'm Mokhalad Ahmad</h1>
-<h3>Frontend & Backend Web Developer | Future IT Specialist 🇩🇪</h3>
+<h3>Frontend Web Developer | Future IT Specialist 🇩🇪</h3>
 
 </div>
 
