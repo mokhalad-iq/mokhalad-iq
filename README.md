@@ -43,7 +43,7 @@
 
 ## 📬 Contact Me
 
-- 📩 Email: mokhalad.ahmed2@gmail.com
+- 📩 Email: mokhalad.ahmed7@gmail.com
 - 💬 Telegram: https://t.me/makhlad_iq  
 ---
 
